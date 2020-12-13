@@ -6,7 +6,7 @@ Online website-based HTML, CSS, JavaScript using VueJS framework with user authe
 Seeing on the media the amount of elderly people- especially nowadays with world wide pandemic all around us- who are struggling with loneliness, with their basic needs and so much more, made me wondering if there's something we can do to help and how.
 I see it on Facebook, on the news almost everyday and it made me keep thinking that maybe there's something we can do to help despite the lockdown. If somehow, someone told us that we can help our neighbor who live across and not seeing the results on heartbreaking post on Facebook…
 So I started building a social media for ongoing-quick volunteer activity that will tell you where, when and how can you help, and if that's suits for you- you can go and help in no time.
-For example- you're 21 year old and you are on your way to the groceries store and you see on the website that near you there's an old lady who need a ride to the groceries store as well, so you can help her- you get all the information how to do that and when, from details that created and uploaded by a supervised non-profit 
+For example- you're 21 year old and you are on your way to the groceries store and you see on the website that near you there's an old lady who need a ride to the groceries store as well, so you can help her- you get all the information how to do that and when, from details that created and uploaded by a supervised non-profit organization.
 
 ### Screenshot
 
