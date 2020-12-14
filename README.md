@@ -1,5 +1,5 @@
 # helping-elderly-ppl
-Online website-based HTML, CSS, JavaScript using VueJS framework with user authentication, routing, events time-listeners, chat rooms for any activity and more features. By building social networking of a nonprofit organization with a propose helping elderly people with their needs by sharing with the young generation ongoing volunteer activities, events etc. in order to expand volunteer circle.
+An online website-based HTML, CSS, JavaScript using VueJS framework with user authentication, routing, time events listeners, chat rooms for any activity and more features. By building social networking of a nonprofit organization with a propose helping elderly people with their needs by sharing with the young generation ongoing volunteer activities, events etc. in order to expand volunteer circle.
 
 ### Motivation
 Seeing on the media the amount of elderly people- especially nowadays with world wide pandemic all around us- who are struggling with loneliness, with their basic needs and so much more, made me wondering if there's something we can do to help and how.
